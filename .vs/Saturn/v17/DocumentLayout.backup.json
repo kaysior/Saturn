@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\Saturn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\saturnsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:saturnsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:ring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\shaders\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:shaders\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|c:\\users\\kamil\\desktop\\saturn\\shaders\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83251616-0589-4089-A58C-142CAAD6CE8D}|Saturn.csproj|solutionrelative:shaders\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fragment.glsl",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Shaders\\fragment.glsl",
+              "RelativeDocumentMoniker": "Shaders\\fragment.glsl",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Shaders\\fragment.glsl",
+              "RelativeToolTip": "Shaders\\fragment.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T09:55:38.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Shader.cs",
+              "RelativeDocumentMoniker": "Shader.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Shader.cs",
+              "RelativeToolTip": "Shader.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA9wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:52:36.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Sphere.cs",
+              "RelativeDocumentMoniker": "Sphere.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Sphere.cs",
+              "RelativeToolTip": "Sphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:52:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Moon.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Moon.cs",
+              "RelativeDocumentMoniker": "Moon.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Moon.cs",
+              "RelativeToolTip": "Moon.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:40:19.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ring.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Ring.cs",
+              "RelativeDocumentMoniker": "Ring.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Ring.cs",
+              "RelativeToolTip": "Ring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:38:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaturnSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\SaturnSimulation.cs",
+              "RelativeDocumentMoniker": "SaturnSimulation.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\SaturnSimulation.cs",
+              "RelativeToolTip": "SaturnSimulation.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAIwIoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:38:02.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:43:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vertex.glsl",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Saturn\\Shaders\\vertex.glsl",
+              "RelativeDocumentMoniker": "Shaders\\vertex.glsl",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Saturn\\Shaders\\vertex.glsl",
+              "RelativeToolTip": "Shaders\\vertex.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T09:56:02.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
